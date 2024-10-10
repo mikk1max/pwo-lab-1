@@ -7,5 +7,6 @@ public class Main {
         System.out.printf("Hello and welcome!4");
         System.out.printf("Hello and welcome!5");
         System.out.printf("Hello and welcome!6");
+        System.out.printf("Hello and welcome!7");
     }
 }
