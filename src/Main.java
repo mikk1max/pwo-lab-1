@@ -8,5 +8,8 @@ public class Main {
         System.out.printf("Hello and welcome!5");
         System.out.printf("Hello and welcome!6");
         System.out.printf("Hello and welcome!7");
+        System.out.printf("Hello and welcome!8");
+        System.out.printf("Hello and welcome!9");
+
     }
 }
